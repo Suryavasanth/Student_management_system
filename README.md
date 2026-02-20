@@ -20,11 +20,10 @@
 ## Tech Stack
 
 - React.js  
-- JavaScript (ES6)  
+- tailwindcss  
 - Node.js  
 - Express.js  
 - MySQL  
-- HTML, CSS  
 
 ---
 
