@@ -1,64 +1,41 @@
-📚 Student Management System
+Student Management System
+Features
 
-A full-stack web application built to manage student records efficiently with user authentication and complete CRUD functionality. The system allows users to register, log in, and perform student data operations through a responsive interface.
+User Signup & Login
 
-🚀 Features
-🔐 Authentication
+JWT Authentication
 
-User Signup
+Protected Routes
 
-User Login
+Add Student Details
 
-JWT-based authentication
+View Student List
 
-Protected routes
+Update Student Information
 
-📚 Student Management
+Delete Student Records
 
-➕ Add new student
+REST API Integration
 
-📄 View all students
+Responsive UI
 
-✏️ Update student details
+React Hooks usage
 
-❌ Delete student records
-
-📊 Dynamic student table display
-
-🛠 Tech Stack
-Frontend
+Tech Stack
 
 React.js
 
-Tailwind CSS
-
-Axios
-
-Backend
+JavaScript (ES6)
 
 Node.js
 
 Express.js
 
-JWT Authentication
-
-Database
-
 MySQL
 
-🧱 Architecture
+HTML, CSS
 
-RESTful API design
-
-MVC structure
-
-Frontend–Backend integration
-
-Database-driven application
-
-⚙️ Installation
-git clone https://github.com/Suryavasanth/Student_management_system.git
-cd Student_management_system
+How to Run
 Backend
 cd backend
 npm install
@@ -67,29 +44,3 @@ Frontend
 cd frontend
 npm install
 npm start
-🎯 Learning Outcomes
-
-Built a full-stack CRUD application
-
-Implemented authentication using JWT
-
-Connected React frontend with Express backend
-
-Integrated MySQL database
-
-Structured backend using MVC pattern
-
-📌 Future Improvements
-
-Implement password hashing (bcrypt) for enhanced security
-
-Role-based access control (Admin/User)
-
-Search and filter functionality
-
-Deployment to cloud platform
-
-👨‍💻 Author
-
-Surya Vasanth
-Aspiring Full Stack Developer 🚀
